@@ -1,2 +1,1 @@
-# Solr
-Search Tool
+"# Solr" 
